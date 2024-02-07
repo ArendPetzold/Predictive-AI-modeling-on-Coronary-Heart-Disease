@@ -8,5 +8,5 @@ All data was downloaded directly from https://www.cdc.gov/brfss/annual_data/annu
 
 ##### End Note
 
-I hope my code can provide good insights in the the predictability of Coronary Heart Disease with AI-Models. Happy for any feedback on the Processing, Models, Evaluation and Visualisation of the data. Cheers! 
+I hope my code can provide good insights into the predictability of Coronary Heart Disease with AI-Models. Happy for any feedback on the Processing, Models, Evaluation and Visualisation of the data. Cheers! 
 
